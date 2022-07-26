@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.logo-justify{
+    height: 40px;
+    width: 250px;
+}
+.bg-custome{
+    background-color: #FFF9F4;
+}
+header{
+    font-family: 'Bebas Neue', cursive;
+}
+h2,.btn,p,a{
+    font-family: 'Roboto', sans-serif;
+}
+.text-tomato{
+    color: #FA804C;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+}
+.text-darkblue{
+    color: #363958;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 80px;
+}
+.btn-custome{
+    width: 170px;
+    height: 60px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+.btn-custome:hover{
+    border-style: none;
+    color: white;
+    transform: scale(1.05);
+    transition: ease-out .3s;
+}
