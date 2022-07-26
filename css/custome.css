@@ -26,6 +26,18 @@ h2,.btn,p,a{
     font-size: 80px;
     line-height: 80px;
 }
+.text-price{
+    font-weight: 900;
+    font-size: 36px;
+    color: #FA804C;
+    padding-top: 10px;
+}
+.price-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
 .btn-custome{
     width: 170px;
     height: 60px;
@@ -38,4 +50,15 @@ h2,.btn,p,a{
     color: white;
     transform: scale(1.05);
     transition: ease-out .3s;
+}
+.text-title{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #363958;
+}
+.product-img{
+    height: 311px;
 }
