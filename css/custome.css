@@ -62,3 +62,7 @@ h2,.btn,p,a{
 .product-img{
     height: 311px;
 }
+.icon img{
+    width: 78px;
+    height: 82px;
+}
